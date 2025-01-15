@@ -20,3 +20,4 @@ while True:
     else:
         print('Rats. I will guess again')
 
+feedback = input('Did you enjoy this? (y/n')
