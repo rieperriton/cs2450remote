@@ -9,4 +9,9 @@ I have submitted the following assignments relating to my groups MyState project
 MyState is a social media for World Leaders to interact with their subjects 
 and other people. Right now we are trying to plan everything out before we
 start building.
+2/19/2025 (Retro)
+Last week we presented our MyState project pitch. Went well, I designed a UI and added to the project architecture page. It seems all very overwhelming at this stage but I'm working on things little by little
+2/26/2025 
+Created a KanBan for team tasks. We also communicate using discord. I really am trying to apply my skillset to this group but it seems like people know more than me. Software as a group is challenging but 
+thats the real world. Working on HTML for a settings and profile editor for MyState.
 
