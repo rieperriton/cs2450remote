@@ -18,5 +18,8 @@ thats the real world.
  Working on HTML for a settings and profile editor for MyState. Attempting to use CSS and 
 2/27/2025
 Will be gone from class this day. Stressful missing so much class but I'm working on the project still.
+3/20/2025
+Working on unit tests for the settings page. This is becoming such a pain in the 
+arse for some reason i dont know why they arent passing. Big race tommorow.
 
 
