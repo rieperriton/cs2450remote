@@ -21,5 +21,9 @@ Will be gone from class this day. Stressful missing so much class but I'm workin
 3/20/2025
 Working on unit tests for the settings page. This is becoming such a pain in the 
 arse for some reason i dont know why they arent passing. Big race tommorow.
+4/1/2025 
+Added CSS to my settings page. I think we are behind. But, theres not much I 
+can do at this time, I'm so swamped with design day and track. Racing in vegas this week. Going to ask my team what I should do next. Refactored 
+3 files.
 
 
