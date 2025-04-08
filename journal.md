@@ -25,5 +25,7 @@ arse for some reason i dont know why they arent passing. Big race tommorow.
 Added CSS to my settings page. I think we are behind. But, theres not much I 
 can do at this time, I'm so swamped with design day and track. Racing in vegas this week. Going to ask my team what I should do next. Refactored 
 3 files.
-
+4/8/2025 
+Still tweaking CSS for my page. Design day is going well, I am learning a lot about MOSI-MISO and C++. My C++ class next semester should be a breeze.
+My team is so hard working and intelligent regarding the database and linking it all up. I need to learn those things....
 
